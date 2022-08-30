@@ -1,19 +1,5 @@
-# vue.js
+O site tem como objetivo atender pedidos de hamburguer e realizar controle.
 
-## Project setup
-```
-yarn install
-```
+Site desenvolvido em Vue.js e com banco de dados mockado.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
